@@ -1,8 +1,3 @@
-/* ================================================================
-       SUDOKU SOLVER — complete logic + 2D board + 3D CSS board
-    ================================================================ */
-
-// ── Sample puzzles (5 total; includes 1 unsolvable) ─────────────
 const SAMPLE_BOARDS = [
     {
         name: 'Sample 1 (Easy)',
